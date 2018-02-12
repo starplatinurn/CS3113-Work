@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\tausif\desktop\cs-uy 3113\nyucodebase\nyucodebase\main.cpp(44): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\tausif\desktop\cs-uy 3113\nyucodebase\nyucodebase\main.cpp(56): warning C4244: 'argument': conversion from 'double' to 'GLsizei', possible loss of data
+c:\users\tausif\desktop\cs-uy 3113\nyucodebase\nyucodebase\main.cpp(73): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\tausif\desktop\cs-uy 3113\nyucodebase\nyucodebase\main.cpp(116): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\tausif\desktop\cs-uy 3113\nyucodebase\nyucodebase\main.cpp(122): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  NYUCodebase.vcxproj -> C:\Users\Tausif\Desktop\CS-UY 3113\NYUCodebase\Debug\NYUCodebase.exe

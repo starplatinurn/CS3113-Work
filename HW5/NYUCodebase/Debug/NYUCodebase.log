@@ -1,0 +1,12 @@
+﻿  main.cpp
+c:\users\tausif\desktop\cs-uy 3113\hw5\nyucodebase\main.cpp(83): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\tausif\desktop\cs-uy 3113\hw5\nyucodebase\main.cpp(151): warning C4018: '<': signed/unsigned mismatch
+c:\users\tausif\desktop\cs-uy 3113\hw5\nyucodebase\main.cpp(211): warning C4018: '<': signed/unsigned mismatch
+c:\users\tausif\desktop\cs-uy 3113\hw5\nyucodebase\main.cpp(216): warning C4018: '<': signed/unsigned mismatch
+c:\users\tausif\desktop\cs-uy 3113\hw5\nyucodebase\main.cpp(245): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\tausif\desktop\cs-uy 3113\hw5\nyucodebase\main.cpp(254): warning C4244: 'argument': conversion from 'double' to 'GLsizei', possible loss of data
+c:\users\tausif\desktop\cs-uy 3113\hw5\nyucodebase\main.cpp(261): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\tausif\desktop\cs-uy 3113\hw5\nyucodebase\main.cpp(284): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\tausif\desktop\cs-uy 3113\hw5\nyucodebase\main.cpp(289): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\tausif\desktop\cs-uy 3113\hw5\nyucodebase\main.cpp(295): warning C4305: 'argument': truncation from 'double' to 'float'
+  NYUCodebase.vcxproj -> C:\Users\Tausif\Desktop\CS-UY 3113\HW5\Debug\NYUCodebase.exe

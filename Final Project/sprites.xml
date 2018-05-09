@@ -1,0 +1,15 @@
+<TextureAtlas imagePath="sprites.png">
+	<SubTexture name="floor.png" x="198" y="132" width="64" height="64"/>
+	<SubTexture name="p1.png" x="132" y="66" width="64" height="64"/>
+	<SubTexture name="p1behind.png" x="130" y="0" width="64" height="64"/>
+	<SubTexture name="p1bullet.png" x="0" y="196" width="43" height="42"/>
+	<SubTexture name="p1left.png" x="264" y="66" width="64" height="64"/>
+	<SubTexture name="p1right.png" x="0" y="130" width="64" height="64"/>
+	<SubTexture name="p2.png" x="262" y="0" width="64" height="64"/>
+	<SubTexture name="p2behind.png" x="132" y="132" width="64" height="64"/>
+	<SubTexture name="p2bullet.png" x="45" y="196" width="43" height="42"/>
+	<SubTexture name="p2left.png" x="198" y="66" width="64" height="64"/>
+	<SubTexture name="p2right.png" x="66" y="130" width="64" height="64"/>
+	<SubTexture name="thePIT.png" x="196" y="0" width="64" height="64"/>
+	<SubTexture name="wall.png" x="0" y="0" width="128" height="128"/>
+</TextureAtlas>

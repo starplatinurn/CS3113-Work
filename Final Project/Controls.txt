@@ -1,0 +1,4 @@
+//CONTROLS: 
+P1: WASD to move, GVBN to shoot, LSHIFT to dash, R to reload 
+P2: ARROW KEYS to move, 8456(KEYPAD) to shoot, ENTER(KEYPAD) to dash, 0(KEYPAD) to reload 
+ESC quits the game
